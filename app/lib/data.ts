@@ -50,7 +50,7 @@ export const educationData = [
     title: "B.E/B.Tech",
     college: "Bangalore Institute of Technology",
     major: "Computer Science and Engineering",
-    description:"Completed my B.E/B.Tech graduation from Bangalore Intitute of technology with a CGPA of 9.44 / 10.0 and was ranked top 2 in my batch.",
+    description:"Completed my B.E/B.Tech graduation from Bangalore Institute of Technology with a CGPA of 9.44 / 10.0 and was ranked top 2 in my batch.",
     icon: React.createElement(LuGraduationCap),
     date: "August 2019 - May 2023",
   }
