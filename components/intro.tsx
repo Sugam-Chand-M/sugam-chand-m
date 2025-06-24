@@ -129,7 +129,7 @@ export default function Intro(){
                         >
                             <Typewriter 
                                 options={{ 
-                                    strings:["Software Engineer", "Programmer", "Binge Watcher"],
+                                    strings:["Software Engineer", "Programmer", "Gamer" ,"Binge Watcher"],
                                     autoStart:true,
                                     delay:100,
                                     loop:true,
@@ -209,7 +209,7 @@ export default function Intro(){
                     Download Resume <HiDownload className="opacity-60 group-hover:translate-y-1 transition"/>
                 </Link>
                 <a
-                    href="https://www.linkedin.com/in/sugam-chand-m-2434a81a6/"
+                    href="https://www.linkedin.com/in/sugam-chand-m/"
                     target="_blank"
                     className="
                         group

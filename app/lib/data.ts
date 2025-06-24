@@ -64,7 +64,7 @@ export const experiencesData = [
     description:
       "Currently working as an Associate Software Engineer at OpenText with expertise in handling customer issues and implementing features.",
     icon: React.createElement(CgWorkAlt),
-    date: "September 2023 - Present",
+    date: "September 2023 - June 2025",
   },
   {
     title: "Software Engineer Intern",

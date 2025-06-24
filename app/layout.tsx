@@ -11,6 +11,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Sugam Chand M",
   description: "Portfolio Website",
+  icons:{
+    icon:'image.jpg'
+  },
 };
 
 export default function RootLayout({

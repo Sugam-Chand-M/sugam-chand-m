@@ -16,7 +16,7 @@ export default function Footer(){
                     text-xs
                 "
             >
-                &copy; 2024 Sugam Chand M. All rights reserved.
+                &copy; 2025 Sugam Chand M. All rights reserved.
             </small>
             <p
                 className="
@@ -28,7 +28,7 @@ export default function Footer(){
                         font-semibold
                     "
                 >
-                    Made with ❤️ by Sugam
+                    Made with ⚡ by Sugam
                 </span>
             </p>
         </footer>

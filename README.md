@@ -71,7 +71,7 @@
                 <a href="mailto:sugamchandm@gmail.com">Mail Me</a>
             </li>
             <li>
-                <a href="https://www.linkedin.com/in/sugam-chand-m-2434a81a6/">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/sugam-chand-m/">LinkedIn</a>
             </li>
             <br>
         </div>
