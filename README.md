@@ -18,10 +18,10 @@
                 <b>Name:</b> Sugam Chand M
             </li>
             <li>
-                <b>Designation:</b> Associate Software Engineer
+                <b>Designation:</b> Software Engineer I
             </li>
             <li>
-                <b>Working @:</b> OpenText
+                <b>Working @:</b> Progress
             </li>
             <li>
                 <b>Gender:</b> He/Him/Male
@@ -49,16 +49,16 @@
                 <b>Frameworks:</b> React.js, Node.js, Express.js, Next.js, .NET Framework 
             </li>
             <li>
-                <b>Tools:</b> Git, GitHub, GitLab 
+                <b>Tools:</b> Git, GitHub, GitLab, BitBucket, AWS
             </li>
             <li>
-                <b>Databases:</b>  Oracle, RDBMS, Microsoft SQL Server, PostgreSQL, MongoDB
+                <b>Databases:</b>  Oracle, RDBMS, Microsoft SQL Server, PostgreSQL, MongoDB, SnowFlake
             </li>
             <li>
                 <b>Other:</b> Debugging, SDLC
             </li>
             <li>
-                <b>Project Management:</b> Agile methodology, ALM Octane
+                <b>Project Management:</b> Agile methodology, ALM Octane, JIRA
             </li>
             <br>
         </div>

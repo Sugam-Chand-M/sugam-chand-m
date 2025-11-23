@@ -35,7 +35,7 @@ export default function About(){
             >
             👨‍💻 Software Engineer with 2+ years of experience in the tech industry and a passion for problem-solving. I hold a degree in Computer Science, where I ranked as one of the top scorers in my batch. I'm always eager for new and exciting opportunities that challenge me to grow professionally.
             <br />
-            Outside of work, I enjoy watching Movies, Series, and Anime! 🎬
+            Outside of work, I enjoy watching Movies, Series, Gaming and Anime! 🎬
             </p>
         </motion.section>
     );
