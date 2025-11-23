@@ -1,9 +1,10 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
+import { FaReact, FaYoutube } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import sociopediaApp from "@/public/sociopedia.png";
 import myMemoryApp from "@/public/myMemoryApp.jpg";
+import { FaSquareLetterboxd, FaSquareYoutube } from "react-icons/fa6";
 import { title } from "process";
 
 export const links = [
@@ -58,11 +59,20 @@ export const educationData = [
 
 export const experiencesData = [
   {
+    title: "Software Engineer I",
+    location: "Bangalore, India",
+    company:"Progress",
+    description:
+      "Currently working as a Software Engineer I with expertise in implementing features for the product ShareFile.",
+    icon: React.createElement(CgWorkAlt),
+    date: "July 2025 - Present",
+  },
+  {
     title: "Associate Software Engineer",
     location: "Bangalore, India",
     company:"OpenText",
     description:
-      "Currently working as an Associate Software Engineer at OpenText with expertise in handling customer issues and implementing features.",
+      "Worked as an Associate Software Engineer at OpenText with expertise in handling customer issues and implementing features.",
     icon: React.createElement(CgWorkAlt),
     date: "September 2023 - June 2025",
   },
@@ -111,8 +121,24 @@ export const skillsData = [
   "Git",
   "GitHub",
   "GitLab",
+  "BitBucket",
+  "AWS",
+  "SnowFlake",
   "SQL",
   "Express.js",
   "MongoDB",
   "PostgreSQL",
 ] as const;
+
+export const hobbiesData = [
+  {
+    title: "LetterBoxd",
+    link: "https://boxd.it/7xphV",
+    icon: React.createElement(FaSquareLetterboxd),
+  },
+  {
+    title: "YouTube",
+    link: "https://www.youtube.com/@Aurum-Chrysus-86",
+    icon: React.createElement(FaYoutube),
+  },
+];
